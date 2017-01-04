@@ -1,0 +1,83 @@
+Nama 		: MAFTUFIN EXSAN
+NIM 		: L200140123
+Makul           : PCMS
+Dosen		: Bana Handaga
+
+Tugas Review Video Tutorial Drupal
+
+Modul-Modul yang ada di video tutorial serta fungsi dari setiap modul tersebut adalah berikut:
+
+1.	Admin menu
+Untuk menyediakan menu dropdown untuk tugas-tugas administrative dan tujuan umum lainnya.
+
+2.	Cofee
+Modul administrative untuk mengganti ke page admin dengan cepat.
+
+3.	Bootstrap
+Digunakan untuk memasang Bootstrap theme pada drupal.
+
+4.	Jquery_Update
+Untuk update jquery ke versi baru.
+
+5.	CKEditor
+Modul ini mengijinkan drupal untuk mengganti textarea fields dengan CKEditor(Visual HTML Editor).
+
+6.	IMCE
+Adalah image/file uploader dan browser yang support untuk directory dan quota pribadi.
+
+7.	Empty Front Page
+Adalah untuk menghapus/mengosongkan default halaman awal dari drupal.
+
+8.	Special Menu Items
+Drupal Module yang menyediakan placeholder dan separator (pemisah) untuk menu items.
+
+9.	Pathauto
+Module yang otomatis membuat URL/path untuk tiap content yang berbeda beda
+
+10.	Views
+Untuk menkostumisasi lists dan queries dari database yang digunakan.
+
+11.	Ctools
+Kumpulan dari beberapa tools yang membantu dalam pembuatan bootstrap.
+
+12.	Draggable Views
+Membuat rows lebih dapat diatur / membuat tampilan “draggable”.
+
+13.	Plupload Integration
+Untuk mengintegrasikan drupal dengan Plupload widget yang berguna untuk mengupload banyak files ke drupal.
+
+14.	Devel
+Untuk menambah bermacam macam block, page dan functions untuk developer.
+
+15.	Image URL Formatter
+Untuk menambah URL formatter di field. Jadi URL image akan ter output secara langsung.
+
+16.	Equal Heights JQuery
+Untuk menyeimbangkan/menyamakan tinggi dari element di kelas tertentu.
+
+17.	Libraries API
+Libraries API untuk drupal.
+
+18.	Display Suite
+Untuk mengontrol penuh bagaimana content tersebut disajikan.
+
+19.	Bootstrap Filegroup
+Menambah set formatter baru untuk opsi fieldgroup saat konfigurasi view mode display.
+
+20.	Field Formatter Settings 
+Memiliki kemampuan modul lain untuk dengan mudah mengubah pengaturan lapangan formatter bentuk dan ringkasan formatter.
+
+21.	Frequently Asked Answer
+Modul yang mengijinkan admin untuk membentuk sebuah FAQ.
+
+22.	Views Bulk Operations
+Modul ini menambah Views dengan memungkinkan operasi massal akan dieksekusi pada baris yang ditampilkan.
+
+23.	Icon API
+Untuk mengintegrasikan bundle icon di drupal.
+
+24.	Font Awesome Icons
+Font untuk bootstrap drupal.
+
+25.	Token Filter 
+Modul yang sangat sederhana untuk membuat nilai-nilai tanda tersedia sebagai filter input.
